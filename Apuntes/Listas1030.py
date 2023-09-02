@@ -1,3 +1,5 @@
+labels =["id","Name", "last_name","email","password"]
+
 nombres = ["juan", "Maria","Pepito","Lisa"]
 
 if "pepito" in nombres:
