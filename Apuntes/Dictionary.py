@@ -52,3 +52,12 @@ print(users)
 print(type(users))
 
 print(users["userB"]["lastname"])
+
+# Ejercio isando diccionarios y funciones en el que creemos un producto con las sigueintes claves
+
+#id,nombre,costo, cantidad, margen de ganancia 
+
+# se deben almacenar los productos con dos campos adicionales 
+#formula calculados precio de venta = costo /(1-margen de ganancia) y valor de invertarios = cantidad * costo
+#almacenar los productos creados en un diccionario de diccionario
+#La aplicacion debe permitir iniciar, mostrar un menu , agregar producto, 2. listar los productos 
